@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "02-时序图",
+      "path": "30-资源/PlantUML/02-时序图.md"
+    },
+    {
+      "basename": "01-基础语法与通用命令",
+      "path": "30-资源/PlantUML/01-基础语法与通用命令.md"
+    },
+    {
+      "basename": "05-类图",
+      "path": "30-资源/PlantUML/05-类图.md"
+    },
+    {
+      "basename": "06-对象图",
+      "path": "30-资源/PlantUML/06-对象图.md"
+    },
+    {
+      "basename": "07-状态图",
+      "path": "30-资源/PlantUML/07-状态图.md"
+    },
+    {
+      "basename": "04-活动图",
+      "path": "30-资源/PlantUML/04-活动图.md"
+    },
+    {
+      "basename": "03-用例图",
+      "path": "30-资源/PlantUML/03-用例图.md"
+    },
+    {
+      "basename": "15-选型实战与FAQ",
+      "path": "30-资源/PlantUML/15-选型实战与FAQ.md"
+    },
+    {
+      "basename": "14-Obsidian与工作流",
+      "path": "30-资源/PlantUML/14-Obsidian与工作流.md"
+    },
+    {
+      "basename": "13-模块化与预处理",
+      "path": "30-资源/PlantUML/13-模块化与预处理.md"
+    },
+    {
+      "basename": "12-样式主题与排版",
+      "path": "30-资源/PlantUML/12-样式主题与排版.md"
+    },
+    {
+      "basename": "11-非UML常用图",
+      "path": "30-资源/PlantUML/11-非UML常用图.md"
+    },
+    {
+      "basename": "10-定时图",
+      "path": "30-资源/PlantUML/10-定时图.md"
+    },
+    {
+      "basename": "09-部署图",
+      "path": "30-资源/PlantUML/09-部署图.md"
+    },
+    {
+      "basename": "08-组件图",
+      "path": "30-资源/PlantUML/08-组件图.md"
+    },
+    {
+      "basename": "00-导读与环境",
+      "path": "30-资源/PlantUML/00-导读与环境.md"
+    },
+    {
+      "basename": "PlantUML从入门到精通",
+      "path": "30-资源/PlantUML从入门到精通.md"
+    },
+    {
+      "basename": "README",
+      "path": "30-资源/README.md"
+    },
+    {
       "basename": "上下面-三段式",
       "path": "10-项目/inspector/三段式-上下面/上下面-三段式.md"
     },
     {
-      "basename": "README",
-      "path": "10-项目/README.md"
-    },
-    {
       "basename": "2026-07-15",
       "path": "20-领域/work/daily/2026-07-15.md"
+    },
+    {
+      "basename": "README",
+      "path": "10-项目/README.md"
     },
     {
       "basename": "Minimal-CMake-zh-20260608",

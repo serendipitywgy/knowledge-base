@@ -2,7 +2,7 @@
   "server_url": "https://www.plantuml.com/plantuml",
   "header": "",
   "debounce": 3,
-  "localJar": "/home/aoi/tools/plantuml.jar",
+  "localJar": "",
   "javaPath": "java",
   "dotPath": "dot",
   "defaultProcessor": "png",
