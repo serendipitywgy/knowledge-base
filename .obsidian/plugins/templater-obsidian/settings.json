@@ -1,0 +1,8 @@
+{
+  "templates_folder": "90-系统/templates",
+  "trigger_on_file_creation": true,
+  "date_format": "YYYY-MM-DD",
+  "time_format": "HH:mm",
+  "enable_templater_preview": false,
+  "syntax_highlight": false
+}

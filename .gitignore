@@ -1,0 +1,8 @@
+# 电子书资源
+30-资源/books/
+
+# Obsidian 缓存
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
