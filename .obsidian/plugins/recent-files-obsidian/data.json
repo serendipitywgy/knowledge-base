@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "11-案例-AOI工业检测流程",
+      "path": "30-资源/BehaviorTree.CPP-v3/11-案例-AOI工业检测流程.md"
+    },
+    {
+      "basename": "10-调试观测与FAQ",
+      "path": "30-资源/BehaviorTree.CPP-v3/10-调试观测与FAQ.md"
+    },
+    {
+      "basename": "09-案例-多点巡检任务编排",
+      "path": "30-资源/BehaviorTree.CPP-v3/09-案例-多点巡检任务编排.md"
+    },
+    {
+      "basename": "08-案例-点到点导航与恢复",
+      "path": "30-资源/BehaviorTree.CPP-v3/08-案例-点到点导航与恢复.md"
+    },
+    {
+      "basename": "07-工程结构与可测试性",
+      "path": "30-资源/BehaviorTree.CPP-v3/07-工程结构与可测试性.md"
+    },
+    {
+      "basename": "05-自定义节点与插件",
+      "path": "30-资源/BehaviorTree.CPP-v3/05-自定义节点与插件.md"
+    },
+    {
+      "basename": "04-XML定义与加载",
+      "path": "30-资源/BehaviorTree.CPP-v3/04-XML定义与加载.md"
+    },
+    {
+      "basename": "03-黑板与Ports",
+      "path": "30-资源/BehaviorTree.CPP-v3/03-黑板与Ports.md"
+    },
+    {
+      "basename": "02-控制节点与装饰节点",
+      "path": "30-资源/BehaviorTree.CPP-v3/02-控制节点与装饰节点.md"
+    },
+    {
+      "basename": "01-核心概念与Tick模型",
+      "path": "30-资源/BehaviorTree.CPP-v3/01-核心概念与Tick模型.md"
+    },
+    {
+      "basename": "00-导读与环境",
+      "path": "30-资源/BehaviorTree.CPP-v3/00-导读与环境.md"
+    },
+    {
+      "basename": "2026-07-22",
+      "path": "20-领域/work/daily/2026-07-22.md"
+    },
+    {
       "basename": "02-时序图",
       "path": "30-资源/PlantUML/02-时序图.md"
     },
